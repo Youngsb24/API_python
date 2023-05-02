@@ -35,3 +35,14 @@ We are going to write a code to grab this same data. First we want to write "imp
 <img src="https://imgur.com/1QIuwxe.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </br>
 
+
+<h6>Step 5</h6>
+If you want a json format for the results and only include the track name from the artist you would "import json" and include a for loop. As well as increase the the limit of how many songs displays.
+
+<br>
+<img src="https://imgur.com/75UTJt0.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</br>
+
+<br>
+<img src="https://imgur.com/Yhep27d.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</br>
