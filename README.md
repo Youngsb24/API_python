@@ -1,5 +1,7 @@
-# API_python
-<h1<Description</h1>
+# API Python
+
+# Description
+In this simple project we will be using an API, which is a set of tools and protocols that allows different software applications to communicate with each other. In this case, we can use an API provided by iTunes to find an artist catalog. To use the API, we would need to send a request to the iTunes API server, providing specific information about the artist we are interested in. This information could include the artist's name, genre, or other relevant details.
 
 <h2>Step 1</h2>
 Ensure to run this command "pip install requests".
